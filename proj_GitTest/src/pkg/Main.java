@@ -8,6 +8,9 @@ public class Main {
 		System.out.println(ref.mtd());
 		System.out.println("OK!!");
 		
+		Test test = new Test();
+		test.mtd();
+		
 	}
 	
 	public static void mtd() {
